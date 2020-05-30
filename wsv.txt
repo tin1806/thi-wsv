@@ -1,0 +1,8 @@
+1. java web -> web application
+2. chuot phai tao web service
+3. add thu vien
+4. tao entiti class from database
+5. cau hinh hibernate, mapping class
+6. tao interface
+7. impl interface
+8. vao file service hoac alt + insert hoac coppy roi sua ten la xong
